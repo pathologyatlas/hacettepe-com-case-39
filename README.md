@@ -1,8 +1,8 @@
-# template
+# hacettepe-com-case-39
 
 
 
-**template for pathology atlas repositories**
+**hacettepe-com-case-39 for pathology atlas repositories**
 
 
 
@@ -26,7 +26,7 @@ vips dzsave HE.svs HE
 
 
 
-```{r language template, echo=FALSE, include=TRUE}
+```{r language hacettepe-com-case-39, echo=FALSE, include=TRUE}
 
 source("./R/language.R")
 
@@ -37,7 +37,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-## TemplateTR
+## hacettepe-com-case-39
 
 ```
 
@@ -46,7 +46,7 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "EN")}
 
-## TemplateEN
+## hacettepe-com-case-39
 
 ```
 
@@ -55,14 +55,14 @@ source("./R/language.R")
 
 ```{asis, echo = (language == "TR")}
 
-**templateTR**
+**hacettepe-com-case-39**
 
 
-[https://images.patolojiatlasi.com/template/HE.html](https://images.patolojiatlasi.com/template/HE.html)
+[https://images.patolojiatlasi.com/hacettepe-com-case-39/HE.html](https://images.patolojiatlasi.com/hacettepe-com-case-39/HE.html)
 
 Mikroskopik görüntüleri inceleyin:
 
-<iframe src="https://images.patolojiatlasi.com/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-39/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
@@ -71,14 +71,14 @@ Mikroskopik görüntüleri inceleyin:
 
 ```{asis, echo = (language == "EN")}
 
-**templateEN**
+**hacettepe-com-case-39**
 
 
-[https://images.patolojiatlasi.com/template/HE.html](https://images.patolojiatlasi.com/template/HE.html)
+[https://images.patolojiatlasi.com/hacettepe-com-case-39/HE.html](https://images.patolojiatlasi.com/hacettepe-com-case-39/HE.html)
 
 See Microscopy with viewer: 
 
-<iframe src="https://images.patolojiatlasi.com/template/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
+<iframe src="https://images.patolojiatlasi.com/hacettepe-com-case-39/HE.html" style="height:400px;width:100%;" data-external="1"></iframe>
 
 ```
 
